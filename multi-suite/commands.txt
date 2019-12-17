@@ -1,0 +1,5 @@
+# Copy/paste one of the lines below into Terminal to execute tests:
+robot -d results Tests  # run all tests
+robot -d results 'Tests/Product 1'  # run Product 1 tests
+robot -d results 'Tests/Product 1/Web/FeatureOne.robot'  # run certain test file
+robot -d results -t 'Test Case 2' 'Tests/Product 1/Web/FeatureOne.robot'   # run certain test case
