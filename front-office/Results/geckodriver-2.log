@@ -1,0 +1,14 @@
+1576677231659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV818zQ"
+
+(firefox:2140): Gtk-WARNING **: 15:53:51.740: Unknown key ; gtk-cursor-theme-name in /home/kruart/.config/gtk-3.0/settings.ini
+1576677231993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576677231993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576677231993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576677231994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:2203): Gtk-WARNING **: 15:53:52.662: Unknown key ; gtk-cursor-theme-name in /home/kruart/.config/gtk-3.0/settings.ini
+
+(/usr/lib/firefox/firefox:2226): Gtk-WARNING **: 15:53:52.820: Unknown key ; gtk-cursor-theme-name in /home/kruart/.config/gtk-3.0/settings.ini
+1576677233565	Marionette	INFO	Listening on port 41747
+1576677233668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576677239439	Marionette	INFO	Stopped listening on port 41747

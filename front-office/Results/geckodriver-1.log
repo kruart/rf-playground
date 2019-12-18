@@ -1,0 +1,16 @@
+1576677218251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXKO9QI"
+
+(firefox:1927): Gtk-WARNING **: 15:53:38.633: Unknown key ; gtk-cursor-theme-name in /home/kruart/.config/gtk-3.0/settings.ini
+1576677218983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576677218983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576677218984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576677218984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:1992): Gtk-WARNING **: 15:53:39.818: Unknown key ; gtk-cursor-theme-name in /home/kruart/.config/gtk-3.0/settings.ini
+
+(/usr/lib/firefox/firefox:2016): Gtk-WARNING **: 15:53:39.980: Unknown key ; gtk-cursor-theme-name in /home/kruart/.config/gtk-3.0/settings.ini
+1576677220628	Marionette	INFO	Listening on port 40519
+1576677220660	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:1927): LIBDBUSMENU-GTK-CRITICAL **: 15:53:43.104: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+1576677226584	Marionette	INFO	Stopped listening on port 40519
